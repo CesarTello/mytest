@@ -1,0 +1,13 @@
+CACHE MANIFEST
+#v1.1.2
+
+# Explicitly cached entries
+http://localhost/appcache/index.html
+http://localhost/appcache/css/style.css
+http://localhost/appcache/images/logo.png
+http://localhost/appcache/js/application.js
+
+# All other resources (e.g. sites) require the user to be online. 
+NETWORK:
+*
+

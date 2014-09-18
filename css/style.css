@@ -1,0 +1,40 @@
+html {
+  overflow-y: scroll;
+  background: #ffcc00;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 24px;
+  color: #333333;
+  cursor: default;
+}
+.mydiv{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	text-align:center;
+}
+.gobutton{
+	display:block;
+	background:#ff0000;
+	color:#000000;
+	width:200px !important;
+	margin-left:auto;
+	margin-right:auto;
+}
+.gobutton:hover{
+	color:#ffffff;
+}
+.milistado{
+	list-style-type: none;
+	display:block;
+	font-size: 16px;
+	color:#000000;
+	width:200px !important;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
